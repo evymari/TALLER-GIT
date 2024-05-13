@@ -1,0 +1,125 @@
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    
+  
+  }
+  
+   img {
+  
+    height: 60px;
+   
+  }
+  
+  div.fondo{
+    background-color: rgb(116, 106, 106);
+    width: 300px;
+    height: 400px;
+    display:block;
+    position: relative;
+    margin-top: 20%;
+    margin-left: 47%;
+    font-size: 30%;
+    
+   
+    
+    
+    
+  }
+  p {
+    color: rgb(214, 43, 226);
+    position: relative;
+    font-size: large;
+    
+    
+    
+  }
+  
+  ul {
+   
+  color:rgb(238, 175, 196);
+  position:relative;
+  font-size:large
+  
+  
+  }
+  section{
+    width:300px;
+    
+     flex: 3 200px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:grey;
+    margin:20px;
+    position:relative;
+    align-items:center;
+    justify-content:center;
+    margin-left:40%;
+    
+  }
+  
+
+ 
+
+  section div {
+    width: 100px;
+  height: 100px;
+  color:white;
+text-align: center;
+  position:relative;
+  font-size:x-large;
+  
+   
+    
+  }
+
+
+ 
+  
+  #caja5 {
+    order: 8;
+    background-color: #00f7ff;
+    
+    
+  }
+  
+  #caja6 {
+    background-color: blue;
+    order: 2;
+   
+  }
+  #caja7 {
+    background-color: rgb(248, 119, 226);
+    order:9 ;
+  }
+  #caja8 {
+    background-color: rgb(228, 51, 15);
+    order: 6;
+  }
+  #caja9 {
+    background-color: rgb(0, 0, 0);
+    order: 7;
+  }
+  #caja1 {
+    background-color: rgb(246, 188, 229);
+    order: 3;
+  }
+  #caja2 {
+    background-color: yellow;
+    order:5 ;
+  }
+  #caja3 {
+    background-color: rgb(43, 255, 0);
+    order: 4;
+  }
+  #caja4 {
+    background-color: orange;
+    order: 1;
+  }
+  
+
+    
+
+  
